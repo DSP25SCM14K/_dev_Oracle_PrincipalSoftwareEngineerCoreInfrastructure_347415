@@ -4,7 +4,7 @@ Static portfolio tailored to the resume supplied for Oracle requisition 347415.
 
 ## Contents
 
-- `index.html` — portfolio, all 15 experience bullets, 22 project cards, publication links, education, and contact.
+- `index.html` — portfolio, all 15 experience bullets, 23 project cards, publication links, education, and contact.
 - `styles.css` — responsive presentation, animated AI-network infrastructure background, and motion system.
 - `script.js` — animated topology, rotating focus text, reveal effects, and project search.
 - `ai-infrastructure-hero.jpg` — generated GPU infrastructure image used as a slowly moving background.
