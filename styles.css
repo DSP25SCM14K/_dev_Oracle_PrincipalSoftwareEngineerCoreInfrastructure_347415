@@ -40,3 +40,6 @@ body{background-color:#080f17;background-image:linear-gradient(180deg,rgba(5,12,
 
 /* Keep workload-map labels legible against the photographic background. */
 .system-map text{font-family:var(--mono);paint-order:stroke;stroke:rgba(5,12,19,.92);stroke-width:2.4px;stroke-linejoin:round}.node-title{fill:#f2f7fa;font-size:10px;font-weight:500;letter-spacing:.035em}.node-sub{fill:#bdd0dc;font-size:6.5px;letter-spacing:.035em}.map-coord{fill:#b9cbd7;font-size:8px;letter-spacing:.08em}.node{fill:rgba(9,17,25,.92);stroke:rgba(67,215,206,.72)}.node-main{fill:rgba(10,25,34,.94);stroke:#43d7ce}
+
+/* Keep the floating impact chips fully inside the hero image on wide and narrow screens. */
+.chip-a{right:12px}.chip-b{left:12px}
